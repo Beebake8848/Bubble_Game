@@ -54,10 +54,13 @@ html,body{
     border-radius: 5px;
     color: black;
     font-weight: 600;
-    font-size: 20;
+    font-size: 25px;
 }
 
 #pbtm{
+    display: flex;
+    justify-content: center;
+    align-items: center;
     width: 100%;
     padding: 20px;
     height: calc(100% - 100px);
